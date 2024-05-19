@@ -1,2 +1,2 @@
-# you can see site (https://mustapakulovazamat.github.io/test-parralax-1/)
+# []you can see site(https://mustapakulovazamat.github.io/test-parralax-1/)
  
